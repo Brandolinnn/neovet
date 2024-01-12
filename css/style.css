@@ -73,6 +73,17 @@ html {
   
 }
 
+.casafoto {
+  width: 60px;
+  padding-bottom: 20px;
+}
+
+.textowsp {
+  text-transform: uppercase;
+  font-size: 30px;
+ 
+}
+
 .div-galeria {
   display: flex;
   flex-flow: row wrap;
